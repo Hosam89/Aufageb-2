@@ -1,0 +1,11 @@
+hr {
+  height: 3px;
+}
+
+ul {
+  list-style-type: square;
+}
+
+html {
+  scroll-behavior: smooth;
+}
