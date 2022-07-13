@@ -1,0 +1,10 @@
+.title{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.header{
+position:fixed ;
+left: 0;
+top: -10px;
+}
