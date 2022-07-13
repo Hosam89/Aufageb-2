@@ -1,0 +1,25 @@
+img{
+    height: 200px;
+    width: 190px;
+}
+div{
+    margin: 0%;
+    padding: 0;
+}
+.title{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.header{
+left: 0;
+top: 0px;
+}
+
+h2{
+    margin-top: 0;
+    margin-left: 10px;
+}
+p{
+    margin-left:10px ;
+}
