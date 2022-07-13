@@ -3,5 +3,9 @@ hr {
 }
 
 ul {
-  list-style-type: georgian;
+  list-style-type: square;
+}
+
+html {
+  scroll-behavior: smooth;
 }
