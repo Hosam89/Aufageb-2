@@ -1,25 +1,27 @@
-img{
+/* img{
     height: 200px;
     width: 190px;
-}
-div{
+} */
+/* div{
     margin: 0%;
     padding: 0;
-}
+} */
 .title{
     display: inline-block;
-    vertical-align: top;
+    border: 1px solid rgb(247, 243, 243);
+    padding: 1rem 1rem;
+    vertical-align: middle;
 }
 
-.header{
+/* .header{
 left: 0;
 top: 0px;
-}
+} */
 
-h2{
+/* h2{
     margin-top: 0;
     margin-left: 10px;
-}
-p{
+} */
+/* p{
     margin-left:10px ;
-}
+} */
